@@ -2,7 +2,7 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
 
 <p align="center"> 
-<img src="png/google play.gif" alt="Animated gif" height="282px">
+<img src="GIF/google play.gif" alt="Animated gif" height="282px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
